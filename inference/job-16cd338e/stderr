@@ -1,4 +1,0 @@
-/usr/local/lib/python3.8/site-packages/sklearn/base.py:493: FutureWarning: The feature names should match those that were passed during fit. Starting version 1.2, an error will be raised.
-Feature names must be in the same order as they were in fit.
-
-  warnings.warn(message, FutureWarning)
