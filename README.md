@@ -13,7 +13,7 @@
 
     5. Deploy Smart Contract on Filecoin's Caliberation Testnet
 
-    6. Call Machine Learning Model Frm Smart Contract.
+    6. Call Machine Learning Model From Smart Contract (Lilypad).
 
 ## 💻 Tech Stack
     - Solidity
