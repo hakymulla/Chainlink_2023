@@ -21,6 +21,8 @@
     - Python
     - Docker
     - Javascript
+    - Bacalhau
+    - Lilypad
 
 
 ## Smart Contract
